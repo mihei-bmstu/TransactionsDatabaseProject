@@ -1,0 +1,10 @@
+.idea/*
+.bsp/*
+project/*
+target/*
+moduleConsumer/target/*
+moduleProducer/target/*
+*.iml
+
+!project/build.properties
+!project/plugins.sbt
