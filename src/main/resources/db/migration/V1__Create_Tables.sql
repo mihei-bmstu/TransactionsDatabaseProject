@@ -1,6 +1,6 @@
 CREATE TABLE products (
     product_id              SERIAL PRIMARY KEY,
-    name                    VARCHAR NOT NULL,
+    product_name            VARCHAR NOT NULL,
     price                   DECIMAL(6, 2) NOT NULL DEFAULT 0.0
 );
 
@@ -11,7 +11,7 @@ CREATE TABLE clients (
     full_name               VARCHAR NOT NULL,
     email                   VARCHAR NOT NULL,
     address                 VARCHAR,
-    phone_number            BIGINT NOT NULL
+    phone_number            VARCHAR NOT NULL
 );
 
 COMMENT ON TABLE clients IS 'This table holds all clients';

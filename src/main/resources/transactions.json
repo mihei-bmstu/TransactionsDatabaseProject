@@ -1,0 +1,602 @@
+[
+	{
+		"transaction_id": 1000,
+		"client_id": 1012,
+		"card": "4485 552 28 9350",
+		"transaction_sum": 7522.04
+	},
+	{
+		"transaction_id": 1001,
+		"client_id": 1002,
+		"card": "453 92572 84787 252",
+		"transaction_sum": 4142.08
+	},
+	{
+		"transaction_id": 1002,
+		"client_id": 1008,
+		"card": "491 66224 88897 251",
+		"transaction_sum": 5112.02
+	},
+	{
+		"transaction_id": 1003,
+		"client_id": 1010,
+		"card": "544 94276 72263 484",
+		"transaction_sum": 75.63
+	},
+	{
+		"transaction_id": 1004,
+		"client_id": 1016,
+		"card": "524538 426157 4464",
+		"transaction_sum": 6860.70
+	},
+	{
+		"transaction_id": 1005,
+		"client_id": 1013,
+		"card": "5498487363467778",
+		"transaction_sum": 2214.04
+	},
+	{
+		"transaction_id": 1006,
+		"client_id": 1003,
+		"card": "4024007134268140",
+		"transaction_sum": 6637.19
+	},
+	{
+		"transaction_id": 1007,
+		"client_id": 1013,
+		"card": "4583643533446",
+		"transaction_sum": 3045.74
+	},
+	{
+		"transaction_id": 1008,
+		"client_id": 1009,
+		"card": "5375721737782555",
+		"transaction_sum": 8759.98
+	},
+	{
+		"transaction_id": 1009,
+		"client_id": 1000,
+		"card": "5287274681441643",
+		"transaction_sum": 4997.32
+	},
+	{
+		"transaction_id": 1010,
+		"client_id": 1004,
+		"card": "491638 2224778766",
+		"transaction_sum": 5615.10
+	},
+	{
+		"transaction_id": 1011,
+		"client_id": 1017,
+		"card": "559629 5649888282",
+		"transaction_sum": 9434.40
+	},
+	{
+		"transaction_id": 1012,
+		"client_id": 1010,
+		"card": "402400 717735 2132",
+		"transaction_sum": 3903.68
+	},
+	{
+		"transaction_id": 1013,
+		"client_id": 1015,
+		"card": "552524 458277 5524",
+		"transaction_sum": 6106.51
+	},
+	{
+		"transaction_id": 1014,
+		"client_id": 1005,
+		"card": "453259 266155 2359",
+		"transaction_sum": 2364.36
+	},
+	{
+		"transaction_id": 1015,
+		"client_id": 1001,
+		"card": "556247 464763 7658",
+		"transaction_sum": 7779.94
+	},
+	{
+		"transaction_id": 1016,
+		"client_id": 1003,
+		"card": "5465412862326555",
+		"transaction_sum": 5049.40
+	},
+	{
+		"transaction_id": 1017,
+		"client_id": 1013,
+		"card": "492958 761629 7317",
+		"transaction_sum": 8190.08
+	},
+	{
+		"transaction_id": 1018,
+		"client_id": 1019,
+		"card": "492933 8226663492",
+		"transaction_sum": 5741.43
+	},
+	{
+		"transaction_id": 1019,
+		"client_id": 1013,
+		"card": "471662 539382 3470",
+		"transaction_sum": 6188.72
+	},
+	{
+		"transaction_id": 1020,
+		"client_id": 1017,
+		"card": "4024 007 19 3568",
+		"transaction_sum": 698.03
+	},
+	{
+		"transaction_id": 1021,
+		"client_id": 1009,
+		"card": "5295284766238475",
+		"transaction_sum": 8766.52
+	},
+	{
+		"transaction_id": 1022,
+		"client_id": 1008,
+		"card": "471616 754316 1733",
+		"transaction_sum": 1546.54
+	},
+	{
+		"transaction_id": 1023,
+		"client_id": 1012,
+		"card": "453232 475786 9467",
+		"transaction_sum": 9910.27
+	},
+	{
+		"transaction_id": 1024,
+		"client_id": 1009,
+		"card": "537 64852 78765 820",
+		"transaction_sum": 5747.27
+	},
+	{
+		"transaction_id": 1025,
+		"client_id": 1004,
+		"card": "537274 877922 4421",
+		"transaction_sum": 4168.97
+	},
+	{
+		"transaction_id": 1026,
+		"client_id": 1003,
+		"card": "4024 0071 7122 2422",
+		"transaction_sum": 6110.44
+	},
+	{
+		"transaction_id": 1027,
+		"client_id": 1001,
+		"card": "4024 007 16 7349",
+		"transaction_sum": 2753.00
+	},
+	{
+		"transaction_id": 1028,
+		"client_id": 1001,
+		"card": "4556 467 19 6359",
+		"transaction_sum": 3326.29
+	},
+	{
+		"transaction_id": 1029,
+		"client_id": 1009,
+		"card": "525844 6334163296",
+		"transaction_sum": 4853.48
+	},
+	{
+		"transaction_id": 1030,
+		"client_id": 1010,
+		"card": "543 66357 81785 446",
+		"transaction_sum": 8035.18
+	},
+	{
+		"transaction_id": 1031,
+		"client_id": 1001,
+		"card": "5447233448315224",
+		"transaction_sum": 5603.39
+	},
+	{
+		"transaction_id": 1032,
+		"client_id": 1010,
+		"card": "486 56875 37956 870",
+		"transaction_sum": 6267.00
+	},
+	{
+		"transaction_id": 1033,
+		"client_id": 1016,
+		"card": "533436 779916 3688",
+		"transaction_sum": 9345.45
+	},
+	{
+		"transaction_id": 1034,
+		"client_id": 1014,
+		"card": "518347 558784 6778",
+		"transaction_sum": 8801.67
+	},
+	{
+		"transaction_id": 1035,
+		"client_id": 1010,
+		"card": "5187 9677 2736 4122",
+		"transaction_sum": 8377.85
+	},
+	{
+		"transaction_id": 1036,
+		"client_id": 1009,
+		"card": "448 55327 36845 732",
+		"transaction_sum": 3173.36
+	},
+	{
+		"transaction_id": 1037,
+		"client_id": 1017,
+		"card": "492965 7357147276",
+		"transaction_sum": 2989.65
+	},
+	{
+		"transaction_id": 1038,
+		"client_id": 1015,
+		"card": "492 97425 59225 649",
+		"transaction_sum": 1947.86
+	},
+	{
+		"transaction_id": 1039,
+		"client_id": 1005,
+		"card": "402 40071 26341 384",
+		"transaction_sum": 5799.71
+	},
+	{
+		"transaction_id": 1040,
+		"client_id": 1009,
+		"card": "4485 743 59 6432",
+		"transaction_sum": 4941.26
+	},
+	{
+		"transaction_id": 1041,
+		"client_id": 1003,
+		"card": "551 57846 18988 221",
+		"transaction_sum": 2586.24
+	},
+	{
+		"transaction_id": 1042,
+		"client_id": 1012,
+		"card": "448562 581559 4716",
+		"transaction_sum": 5951.31
+	},
+	{
+		"transaction_id": 1043,
+		"client_id": 1009,
+		"card": "5523 4376 5216 8859",
+		"transaction_sum": 396.74
+	},
+	{
+		"transaction_id": 1044,
+		"client_id": 1005,
+		"card": "492 96269 56448 377",
+		"transaction_sum": 7459.66
+	},
+	{
+		"transaction_id": 1045,
+		"client_id": 1018,
+		"card": "4024 0071 7386 6283",
+		"transaction_sum": 6483.51
+	},
+	{
+		"transaction_id": 1046,
+		"client_id": 1016,
+		"card": "402 40071 54757 725",
+		"transaction_sum": 8885.04
+	},
+	{
+		"transaction_id": 1047,
+		"client_id": 1009,
+		"card": "5445 6865 2787 8861",
+		"transaction_sum": 7037.63
+	},
+	{
+		"transaction_id": 1048,
+		"client_id": 1013,
+		"card": "5449247373182639",
+		"transaction_sum": 3251.38
+	},
+	{
+		"transaction_id": 1049,
+		"client_id": 1006,
+		"card": "455659 636354 3310",
+		"transaction_sum": 8859.71
+	},
+	{
+		"transaction_id": 1050,
+		"client_id": 1010,
+		"card": "542487 374814 4266",
+		"transaction_sum": 7105.61
+	},
+	{
+		"transaction_id": 1051,
+		"client_id": 1013,
+		"card": "549 68419 28838 836",
+		"transaction_sum": 5903.05
+	},
+	{
+		"transaction_id": 1052,
+		"client_id": 1004,
+		"card": "5183 3448 5353 6663",
+		"transaction_sum": 1770.82
+	},
+	{
+		"transaction_id": 1053,
+		"client_id": 1004,
+		"card": "4485 368 28 7754",
+		"transaction_sum": 5305.47
+	},
+	{
+		"transaction_id": 1054,
+		"client_id": 1004,
+		"card": "4916 954 84 8583",
+		"transaction_sum": 628.54
+	},
+	{
+		"transaction_id": 1055,
+		"client_id": 1007,
+		"card": "453 95338 59775 652",
+		"transaction_sum": 8898.62
+	},
+	{
+		"transaction_id": 1056,
+		"client_id": 1003,
+		"card": "476436 371441 9361",
+		"transaction_sum": 7985.27
+	},
+	{
+		"transaction_id": 1057,
+		"client_id": 1006,
+		"card": "455665 384433 4619",
+		"transaction_sum": 1254.98
+	},
+	{
+		"transaction_id": 1058,
+		"client_id": 1009,
+		"card": "516 75465 73741 189",
+		"transaction_sum": 3861.07
+	},
+	{
+		"transaction_id": 1059,
+		"client_id": 1005,
+		"card": "5393277758794373",
+		"transaction_sum": 7301.67
+	},
+	{
+		"transaction_id": 1060,
+		"client_id": 1018,
+		"card": "5235544735723789",
+		"transaction_sum": 5225.05
+	},
+	{
+		"transaction_id": 1061,
+		"client_id": 1015,
+		"card": "5248232557217420",
+		"transaction_sum": 2911.43
+	},
+	{
+		"transaction_id": 1062,
+		"client_id": 1006,
+		"card": "4916137365760",
+		"transaction_sum": 6447.44
+	},
+	{
+		"transaction_id": 1063,
+		"client_id": 1004,
+		"card": "4716 778 21 4180",
+		"transaction_sum": 8387.44
+	},
+	{
+		"transaction_id": 1064,
+		"client_id": 1008,
+		"card": "525 52467 49668 175",
+		"transaction_sum": 3004.43
+	},
+	{
+		"transaction_id": 1065,
+		"client_id": 1004,
+		"card": "523649 3597134579",
+		"transaction_sum": 2490.91
+	},
+	{
+		"transaction_id": 1066,
+		"client_id": 1001,
+		"card": "5186 5446 1864 6122",
+		"transaction_sum": 9040.31
+	},
+	{
+		"transaction_id": 1067,
+		"client_id": 1010,
+		"card": "5156 9688 4699 6858",
+		"transaction_sum": 8335.33
+	},
+	{
+		"transaction_id": 1068,
+		"client_id": 1011,
+		"card": "5466869376659152",
+		"transaction_sum": 1273.16
+	},
+	{
+		"transaction_id": 1069,
+		"client_id": 1018,
+		"card": "492984 738455 5811",
+		"transaction_sum": 3478.71
+	},
+	{
+		"transaction_id": 1070,
+		"client_id": 1017,
+		"card": "4929287452628283",
+		"transaction_sum": 1626.65
+	},
+	{
+		"transaction_id": 1071,
+		"client_id": 1011,
+		"card": "5245583364228973",
+		"transaction_sum": 8449.47
+	},
+	{
+		"transaction_id": 1072,
+		"client_id": 1011,
+		"card": "5224 6552 5428 8492",
+		"transaction_sum": 8411.00
+	},
+	{
+		"transaction_id": 1073,
+		"client_id": 1005,
+		"card": "4976 222 41 6217",
+		"transaction_sum": 7001.12
+	},
+	{
+		"transaction_id": 1074,
+		"client_id": 1011,
+		"card": "453255 4278714442",
+		"transaction_sum": 7696.44
+	},
+	{
+		"transaction_id": 1075,
+		"client_id": 1013,
+		"card": "552611 579378 7269",
+		"transaction_sum": 8436.87
+	},
+	{
+		"transaction_id": 1076,
+		"client_id": 1008,
+		"card": "5416618847581839",
+		"transaction_sum": 2559.06
+	},
+	{
+		"transaction_id": 1077,
+		"client_id": 1010,
+		"card": "522 64239 15986 915",
+		"transaction_sum": 610.20
+	},
+	{
+		"transaction_id": 1078,
+		"client_id": 1014,
+		"card": "4539735387232",
+		"transaction_sum": 9862.43
+	},
+	{
+		"transaction_id": 1079,
+		"client_id": 1003,
+		"card": "5353968575332565",
+		"transaction_sum": 9021.01
+	},
+	{
+		"transaction_id": 1080,
+		"client_id": 1009,
+		"card": "4532 555 42 7386",
+		"transaction_sum": 7966.75
+	},
+	{
+		"transaction_id": 1081,
+		"client_id": 1013,
+		"card": "492943 4238843378",
+		"transaction_sum": 5661.82
+	},
+	{
+		"transaction_id": 1082,
+		"client_id": 1013,
+		"card": "4916518811499",
+		"transaction_sum": 7745.75
+	},
+	{
+		"transaction_id": 1083,
+		"client_id": 1009,
+		"card": "453972 6788846665",
+		"transaction_sum": 5744.75
+	},
+	{
+		"transaction_id": 1084,
+		"client_id": 1014,
+		"card": "453 97255 44253 844",
+		"transaction_sum": 4058.35
+	},
+	{
+		"transaction_id": 1085,
+		"client_id": 1015,
+		"card": "553698 7747194455",
+		"transaction_sum": 9586.80
+	},
+	{
+		"transaction_id": 1086,
+		"client_id": 1013,
+		"card": "402400 718587 5223",
+		"transaction_sum": 2450.56
+	},
+	{
+		"transaction_id": 1087,
+		"client_id": 1007,
+		"card": "543682 356412 8188",
+		"transaction_sum": 8645.28
+	},
+	{
+		"transaction_id": 1088,
+		"client_id": 1019,
+		"card": "5114 9857 1484 2619",
+		"transaction_sum": 6650.02
+	},
+	{
+		"transaction_id": 1089,
+		"client_id": 1010,
+		"card": "4916331385952",
+		"transaction_sum": 5689.38
+	},
+	{
+		"transaction_id": 1090,
+		"client_id": 1017,
+		"card": "523 75316 68534 547",
+		"transaction_sum": 3339.82
+	},
+	{
+		"transaction_id": 1091,
+		"client_id": 1004,
+		"card": "542 35864 93271 222",
+		"transaction_sum": 1050.25
+	},
+	{
+		"transaction_id": 1092,
+		"client_id": 1001,
+		"card": "5565853978648375",
+		"transaction_sum": 3080.85
+	},
+	{
+		"transaction_id": 1093,
+		"client_id": 1003,
+		"card": "4556374882539",
+		"transaction_sum": 4845.25
+	},
+	{
+		"transaction_id": 1094,
+		"client_id": 1007,
+		"card": "554971 568839 6135",
+		"transaction_sum": 460.45
+	},
+	{
+		"transaction_id": 1095,
+		"client_id": 1012,
+		"card": "532693 7686735762",
+		"transaction_sum": 2190.47
+	},
+	{
+		"transaction_id": 1096,
+		"client_id": 1007,
+		"card": "532349 9522173743",
+		"transaction_sum": 1412.76
+	},
+	{
+		"transaction_id": 1097,
+		"client_id": 1006,
+		"card": "517598 1763245826",
+		"transaction_sum": 9024.01
+	},
+	{
+		"transaction_id": 1098,
+		"client_id": 1008,
+		"card": "5581 8421 4737 3627",
+		"transaction_sum": 7593.56
+	},
+	{
+		"transaction_id": 1099,
+		"client_id": 1003,
+		"card": "4716945448425679",
+		"transaction_sum": 9143.84
+	}
+]

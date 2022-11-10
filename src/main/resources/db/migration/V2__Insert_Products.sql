@@ -1,0 +1,22 @@
+INSERT INTO products (product_id,product_name,price)
+VALUES
+  (1000,'noodles',100.82),
+  (1001,'dessert',132.82),
+  (1002,'cereals',31.61),
+  (1003,'pizza',73.29),
+  (1004,'sandwich',147.17),
+  (1005,'coffee',104.68),
+  (1006,'tea',30.38),
+  (1007,'pasta',50.12),
+  (1008,'musli bar',62.33),
+  (1009,'pie',63.44),
+  (1010,'ice cream',140.05),
+  (1011,'meat',108.26),
+  (1012,'chicken',70.20),
+  (1013,'cheese',39.84),
+  (1014,'stew',56.98),
+  (1015,'soup',33.26),
+  (1016,'turkey',135.84),
+  (1017,'onion',29.06),
+  (1018,'potato',43.06),
+  (1019,'orange',102.94);
