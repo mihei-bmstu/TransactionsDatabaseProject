@@ -23,7 +23,7 @@ val flyway = "org.flywaydb" % "flyway-core" % "9.7.0"
 lazy val root = (project in file("."))
   .settings(
     name := "TransactionsDatabaseProject",
-    libraryDependencies := Seq(sparkCore, sparkSql, slick, slickHikari, flyway, postgres)
+    libraryDependencies := Seq(postgres, slick, slickHikari)
   )
 
 lazy val producer = (project in file("./moduleProducer"))
@@ -36,4 +36,10 @@ lazy val consumer = (project in file("./moduleConsumer"))
   .settings(
     name := "KafkaConsumer",
     libraryDependencies ++= Seq(sparkSQLKafka, kafka)
+  ).dependsOn(root)
+
+lazy val migration = (project in file("./moduleMigration"))
+  .settings(
+    name := "DBMigration",
+    libraryDependencies ++= Seq(flyway)
   ).dependsOn(root)

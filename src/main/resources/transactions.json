@@ -1,602 +1,2502 @@
 [
 	{
-		"transaction_id": 1000,
-		"client_id": 1012,
-		"card": "4485 552 28 9350",
-		"transaction_sum": 7522.04
+		"transaction_id": 1,
+		"card_number": 4532884855783365,
+		"transaction_sum": 108.57
 	},
 	{
-		"transaction_id": 1001,
-		"client_id": 1002,
-		"card": "453 92572 84787 252",
-		"transaction_sum": 4142.08
+		"transaction_id": 2,
+		"card_number": 5381435892838126,
+		"transaction_sum": 484.98
 	},
 	{
-		"transaction_id": 1002,
-		"client_id": 1008,
-		"card": "491 66224 88897 251",
-		"transaction_sum": 5112.02
+		"transaction_id": 3,
+		"card_number": 5366456425369412,
+		"transaction_sum": 346.86
 	},
 	{
-		"transaction_id": 1003,
-		"client_id": 1010,
-		"card": "544 94276 72263 484",
-		"transaction_sum": 75.63
+		"transaction_id": 4,
+		"card_number": 5572628335768673,
+		"transaction_sum": 67.45
 	},
 	{
-		"transaction_id": 1004,
-		"client_id": 1016,
-		"card": "524538 426157 4464",
-		"transaction_sum": 6860.70
+		"transaction_id": 5,
+		"card_number": 5257213687345123,
+		"transaction_sum": 435.83
 	},
 	{
-		"transaction_id": 1005,
-		"client_id": 1013,
-		"card": "5498487363467778",
-		"transaction_sum": 2214.04
+		"transaction_id": 6,
+		"card_number": 5165755833248735,
+		"transaction_sum": 327.16
 	},
 	{
-		"transaction_id": 1006,
-		"client_id": 1003,
-		"card": "4024007134268140",
-		"transaction_sum": 6637.19
+		"transaction_id": 7,
+		"card_number": 5366456425369412,
+		"transaction_sum": 168.67
 	},
 	{
-		"transaction_id": 1007,
-		"client_id": 1013,
-		"card": "4583643533446",
-		"transaction_sum": 3045.74
+		"transaction_id": 8,
+		"card_number": 4532884855783365,
+		"transaction_sum": 190.35
 	},
 	{
-		"transaction_id": 1008,
-		"client_id": 1009,
-		"card": "5375721737782555",
-		"transaction_sum": 8759.98
+		"transaction_id": 9,
+		"card_number": 5381435892838126,
+		"transaction_sum": 454.40
 	},
 	{
-		"transaction_id": 1009,
-		"client_id": 1000,
-		"card": "5287274681441643",
-		"transaction_sum": 4997.32
+		"transaction_id": 10,
+		"card_number": 5257213687345123,
+		"transaction_sum": 199.22
 	},
 	{
-		"transaction_id": 1010,
-		"client_id": 1004,
-		"card": "491638 2224778766",
-		"transaction_sum": 5615.10
+		"transaction_id": 11,
+		"card_number": 4024007123875426,
+		"transaction_sum": 179.51
 	},
 	{
-		"transaction_id": 1011,
-		"client_id": 1017,
-		"card": "559629 5649888282",
-		"transaction_sum": 9434.40
+		"transaction_id": 12,
+		"card_number": 5381435892838126,
+		"transaction_sum": 55.89
 	},
 	{
-		"transaction_id": 1012,
-		"client_id": 1010,
-		"card": "402400 717735 2132",
-		"transaction_sum": 3903.68
+		"transaction_id": 13,
+		"card_number": 5565926734656484,
+		"transaction_sum": 97.03
 	},
 	{
-		"transaction_id": 1013,
-		"client_id": 1015,
-		"card": "552524 458277 5524",
-		"transaction_sum": 6106.51
+		"transaction_id": 14,
+		"card_number": 4024007123875426,
+		"transaction_sum": 70.98
 	},
 	{
-		"transaction_id": 1014,
-		"client_id": 1005,
-		"card": "453259 266155 2359",
-		"transaction_sum": 2364.36
+		"transaction_id": 15,
+		"card_number": 5572628335768673,
+		"transaction_sum": 370.88
 	},
 	{
-		"transaction_id": 1015,
-		"client_id": 1001,
-		"card": "556247 464763 7658",
-		"transaction_sum": 7779.94
+		"transaction_id": 16,
+		"card_number": 5257213687345123,
+		"transaction_sum": 203.64
 	},
 	{
-		"transaction_id": 1016,
-		"client_id": 1003,
-		"card": "5465412862326555",
-		"transaction_sum": 5049.40
+		"transaction_id": 17,
+		"card_number": 5165755833248735,
+		"transaction_sum": 462.97
 	},
 	{
-		"transaction_id": 1017,
-		"client_id": 1013,
-		"card": "492958 761629 7317",
-		"transaction_sum": 8190.08
+		"transaction_id": 18,
+		"card_number": 4532884855783365,
+		"transaction_sum": 90.07
 	},
 	{
-		"transaction_id": 1018,
-		"client_id": 1019,
-		"card": "492933 8226663492",
-		"transaction_sum": 5741.43
+		"transaction_id": 19,
+		"card_number": 5366456425369412,
+		"transaction_sum": 472.85
 	},
 	{
-		"transaction_id": 1019,
-		"client_id": 1013,
-		"card": "471662 539382 3470",
-		"transaction_sum": 6188.72
+		"transaction_id": 20,
+		"card_number": 4024007123875426,
+		"transaction_sum": 290.19
 	},
 	{
-		"transaction_id": 1020,
-		"client_id": 1017,
-		"card": "4024 007 19 3568",
-		"transaction_sum": 698.03
+		"transaction_id": 21,
+		"card_number": 4024007123875426,
+		"transaction_sum": 88.71
 	},
 	{
-		"transaction_id": 1021,
-		"client_id": 1009,
-		"card": "5295284766238475",
-		"transaction_sum": 8766.52
+		"transaction_id": 22,
+		"card_number": 5381435892838126,
+		"transaction_sum": 144.15
 	},
 	{
-		"transaction_id": 1022,
-		"client_id": 1008,
-		"card": "471616 754316 1733",
-		"transaction_sum": 1546.54
+		"transaction_id": 23,
+		"card_number": 5266522748472570,
+		"transaction_sum": 179.77
 	},
 	{
-		"transaction_id": 1023,
-		"client_id": 1012,
-		"card": "453232 475786 9467",
-		"transaction_sum": 9910.27
+		"transaction_id": 24,
+		"card_number": 5366456425369412,
+		"transaction_sum": 188.79
 	},
 	{
-		"transaction_id": 1024,
-		"client_id": 1009,
-		"card": "537 64852 78765 820",
-		"transaction_sum": 5747.27
+		"transaction_id": 25,
+		"card_number": 5366456425369412,
+		"transaction_sum": 185.41
 	},
 	{
-		"transaction_id": 1025,
-		"client_id": 1004,
-		"card": "537274 877922 4421",
-		"transaction_sum": 4168.97
+		"transaction_id": 26,
+		"card_number": 5165755833248735,
+		"transaction_sum": 433.68
 	},
 	{
-		"transaction_id": 1026,
-		"client_id": 1003,
-		"card": "4024 0071 7122 2422",
-		"transaction_sum": 6110.44
+		"transaction_id": 27,
+		"card_number": 5178183589759463,
+		"transaction_sum": 474.17
 	},
 	{
-		"transaction_id": 1027,
-		"client_id": 1001,
-		"card": "4024 007 16 7349",
-		"transaction_sum": 2753.00
+		"transaction_id": 28,
+		"card_number": 5178183589759463,
+		"transaction_sum": 273.95
 	},
 	{
-		"transaction_id": 1028,
-		"client_id": 1001,
-		"card": "4556 467 19 6359",
-		"transaction_sum": 3326.29
+		"transaction_id": 29,
+		"card_number": 5366456425369412,
+		"transaction_sum": 21.24
 	},
 	{
-		"transaction_id": 1029,
-		"client_id": 1009,
-		"card": "525844 6334163296",
-		"transaction_sum": 4853.48
+		"transaction_id": 30,
+		"card_number": 5565926734656484,
+		"transaction_sum": 67.77
 	},
 	{
-		"transaction_id": 1030,
-		"client_id": 1010,
-		"card": "543 66357 81785 446",
-		"transaction_sum": 8035.18
+		"transaction_id": 31,
+		"card_number": 5572628335768673,
+		"transaction_sum": 73.19
 	},
 	{
-		"transaction_id": 1031,
-		"client_id": 1001,
-		"card": "5447233448315224",
-		"transaction_sum": 5603.39
+		"transaction_id": 32,
+		"card_number": 5257213687345123,
+		"transaction_sum": 307.56
 	},
 	{
-		"transaction_id": 1032,
-		"client_id": 1010,
-		"card": "486 56875 37956 870",
-		"transaction_sum": 6267.00
+		"transaction_id": 33,
+		"card_number": 4024007123875426,
+		"transaction_sum": 215.10
 	},
 	{
-		"transaction_id": 1033,
-		"client_id": 1016,
-		"card": "533436 779916 3688",
-		"transaction_sum": 9345.45
+		"transaction_id": 34,
+		"card_number": 5572628335768673,
+		"transaction_sum": 192.69
 	},
 	{
-		"transaction_id": 1034,
-		"client_id": 1014,
-		"card": "518347 558784 6778",
-		"transaction_sum": 8801.67
+		"transaction_id": 35,
+		"card_number": 5565926734656484,
+		"transaction_sum": 108.42
 	},
 	{
-		"transaction_id": 1035,
-		"client_id": 1010,
-		"card": "5187 9677 2736 4122",
-		"transaction_sum": 8377.85
+		"transaction_id": 36,
+		"card_number": 5565926734656484,
+		"transaction_sum": 270.10
 	},
 	{
-		"transaction_id": 1036,
-		"client_id": 1009,
-		"card": "448 55327 36845 732",
-		"transaction_sum": 3173.36
+		"transaction_id": 37,
+		"card_number": 5381435892838126,
+		"transaction_sum": 60.61
 	},
 	{
-		"transaction_id": 1037,
-		"client_id": 1017,
-		"card": "492965 7357147276",
-		"transaction_sum": 2989.65
+		"transaction_id": 38,
+		"card_number": 5381435892838126,
+		"transaction_sum": 133.61
 	},
 	{
-		"transaction_id": 1038,
-		"client_id": 1015,
-		"card": "492 97425 59225 649",
-		"transaction_sum": 1947.86
+		"transaction_id": 39,
+		"card_number": 5257213687345123,
+		"transaction_sum": 167.98
 	},
 	{
-		"transaction_id": 1039,
-		"client_id": 1005,
-		"card": "402 40071 26341 384",
-		"transaction_sum": 5799.71
+		"transaction_id": 40,
+		"card_number": 4024007123875426,
+		"transaction_sum": 408.90
 	},
 	{
-		"transaction_id": 1040,
-		"client_id": 1009,
-		"card": "4485 743 59 6432",
-		"transaction_sum": 4941.26
+		"transaction_id": 41,
+		"card_number": 5565926734656484,
+		"transaction_sum": 330.58
 	},
 	{
-		"transaction_id": 1041,
-		"client_id": 1003,
-		"card": "551 57846 18988 221",
-		"transaction_sum": 2586.24
+		"transaction_id": 42,
+		"card_number": 5165755833248735,
+		"transaction_sum": 31.41
 	},
 	{
-		"transaction_id": 1042,
-		"client_id": 1012,
-		"card": "448562 581559 4716",
-		"transaction_sum": 5951.31
+		"transaction_id": 43,
+		"card_number": 5178183589759463,
+		"transaction_sum": 76.10
 	},
 	{
-		"transaction_id": 1043,
-		"client_id": 1009,
-		"card": "5523 4376 5216 8859",
-		"transaction_sum": 396.74
+		"transaction_id": 44,
+		"card_number": 5381435892838126,
+		"transaction_sum": 332.43
 	},
 	{
-		"transaction_id": 1044,
-		"client_id": 1005,
-		"card": "492 96269 56448 377",
-		"transaction_sum": 7459.66
+		"transaction_id": 45,
+		"card_number": 5565926734656484,
+		"transaction_sum": 32.82
 	},
 	{
-		"transaction_id": 1045,
-		"client_id": 1018,
-		"card": "4024 0071 7386 6283",
-		"transaction_sum": 6483.51
+		"transaction_id": 46,
+		"card_number": 4532884855783365,
+		"transaction_sum": 151.96
 	},
 	{
-		"transaction_id": 1046,
-		"client_id": 1016,
-		"card": "402 40071 54757 725",
-		"transaction_sum": 8885.04
+		"transaction_id": 47,
+		"card_number": 5381435892838126,
+		"transaction_sum": 378.14
 	},
 	{
-		"transaction_id": 1047,
-		"client_id": 1009,
-		"card": "5445 6865 2787 8861",
-		"transaction_sum": 7037.63
+		"transaction_id": 48,
+		"card_number": 5266522748472570,
+		"transaction_sum": 54.44
 	},
 	{
-		"transaction_id": 1048,
-		"client_id": 1013,
-		"card": "5449247373182639",
-		"transaction_sum": 3251.38
+		"transaction_id": 49,
+		"card_number": 5572628335768673,
+		"transaction_sum": 357.46
 	},
 	{
-		"transaction_id": 1049,
-		"client_id": 1006,
-		"card": "455659 636354 3310",
-		"transaction_sum": 8859.71
+		"transaction_id": 50,
+		"card_number": 4024007123875426,
+		"transaction_sum": 499.25
 	},
 	{
-		"transaction_id": 1050,
-		"client_id": 1010,
-		"card": "542487 374814 4266",
-		"transaction_sum": 7105.61
+		"transaction_id": 51,
+		"card_number": 5565926734656484,
+		"transaction_sum": 463.39
 	},
 	{
-		"transaction_id": 1051,
-		"client_id": 1013,
-		"card": "549 68419 28838 836",
-		"transaction_sum": 5903.05
+		"transaction_id": 52,
+		"card_number": 5257213687345123,
+		"transaction_sum": 334.82
 	},
 	{
-		"transaction_id": 1052,
-		"client_id": 1004,
-		"card": "5183 3448 5353 6663",
-		"transaction_sum": 1770.82
+		"transaction_id": 53,
+		"card_number": 5572628335768673,
+		"transaction_sum": 120.27
 	},
 	{
-		"transaction_id": 1053,
-		"client_id": 1004,
-		"card": "4485 368 28 7754",
-		"transaction_sum": 5305.47
+		"transaction_id": 54,
+		"card_number": 5178183589759463,
+		"transaction_sum": 386.84
 	},
 	{
-		"transaction_id": 1054,
-		"client_id": 1004,
-		"card": "4916 954 84 8583",
-		"transaction_sum": 628.54
+		"transaction_id": 55,
+		"card_number": 5178183589759463,
+		"transaction_sum": 84.33
 	},
 	{
-		"transaction_id": 1055,
-		"client_id": 1007,
-		"card": "453 95338 59775 652",
-		"transaction_sum": 8898.62
+		"transaction_id": 56,
+		"card_number": 5565926734656484,
+		"transaction_sum": 280.85
 	},
 	{
-		"transaction_id": 1056,
-		"client_id": 1003,
-		"card": "476436 371441 9361",
-		"transaction_sum": 7985.27
+		"transaction_id": 57,
+		"card_number": 5572628335768673,
+		"transaction_sum": 322.03
 	},
 	{
-		"transaction_id": 1057,
-		"client_id": 1006,
-		"card": "455665 384433 4619",
-		"transaction_sum": 1254.98
+		"transaction_id": 58,
+		"card_number": 5165755833248735,
+		"transaction_sum": 96.70
 	},
 	{
-		"transaction_id": 1058,
-		"client_id": 1009,
-		"card": "516 75465 73741 189",
-		"transaction_sum": 3861.07
+		"transaction_id": 59,
+		"card_number": 4024007123875426,
+		"transaction_sum": 222.59
 	},
 	{
-		"transaction_id": 1059,
-		"client_id": 1005,
-		"card": "5393277758794373",
-		"transaction_sum": 7301.67
+		"transaction_id": 60,
+		"card_number": 5572628335768673,
+		"transaction_sum": 93.83
 	},
 	{
-		"transaction_id": 1060,
-		"client_id": 1018,
-		"card": "5235544735723789",
-		"transaction_sum": 5225.05
+		"transaction_id": 61,
+		"card_number": 4024007123875426,
+		"transaction_sum": 356.35
 	},
 	{
-		"transaction_id": 1061,
-		"client_id": 1015,
-		"card": "5248232557217420",
-		"transaction_sum": 2911.43
+		"transaction_id": 62,
+		"card_number": 5572628335768673,
+		"transaction_sum": 188.78
 	},
 	{
-		"transaction_id": 1062,
-		"client_id": 1006,
-		"card": "4916137365760",
-		"transaction_sum": 6447.44
+		"transaction_id": 63,
+		"card_number": 5178183589759463,
+		"transaction_sum": 62.26
 	},
 	{
-		"transaction_id": 1063,
-		"client_id": 1004,
-		"card": "4716 778 21 4180",
-		"transaction_sum": 8387.44
+		"transaction_id": 64,
+		"card_number": 4532884855783365,
+		"transaction_sum": 342.91
 	},
 	{
-		"transaction_id": 1064,
-		"client_id": 1008,
-		"card": "525 52467 49668 175",
-		"transaction_sum": 3004.43
+		"transaction_id": 65,
+		"card_number": 5565926734656484,
+		"transaction_sum": 143.12
 	},
 	{
-		"transaction_id": 1065,
-		"client_id": 1004,
-		"card": "523649 3597134579",
-		"transaction_sum": 2490.91
+		"transaction_id": 66,
+		"card_number": 5257213687345123,
+		"transaction_sum": 11.97
 	},
 	{
-		"transaction_id": 1066,
-		"client_id": 1001,
-		"card": "5186 5446 1864 6122",
-		"transaction_sum": 9040.31
+		"transaction_id": 67,
+		"card_number": 5366456425369412,
+		"transaction_sum": 141.15
 	},
 	{
-		"transaction_id": 1067,
-		"client_id": 1010,
-		"card": "5156 9688 4699 6858",
-		"transaction_sum": 8335.33
+		"transaction_id": 68,
+		"card_number": 5366456425369412,
+		"transaction_sum": 213.65
 	},
 	{
-		"transaction_id": 1068,
-		"client_id": 1011,
-		"card": "5466869376659152",
-		"transaction_sum": 1273.16
+		"transaction_id": 69,
+		"card_number": 4024007123875426,
+		"transaction_sum": 13.86
 	},
 	{
-		"transaction_id": 1069,
-		"client_id": 1018,
-		"card": "492984 738455 5811",
-		"transaction_sum": 3478.71
+		"transaction_id": 70,
+		"card_number": 5257213687345123,
+		"transaction_sum": 237.31
 	},
 	{
-		"transaction_id": 1070,
-		"client_id": 1017,
-		"card": "4929287452628283",
-		"transaction_sum": 1626.65
+		"transaction_id": 71,
+		"card_number": 5266522748472570,
+		"transaction_sum": 101.57
 	},
 	{
-		"transaction_id": 1071,
-		"client_id": 1011,
-		"card": "5245583364228973",
-		"transaction_sum": 8449.47
+		"transaction_id": 72,
+		"card_number": 5257213687345123,
+		"transaction_sum": 267.02
 	},
 	{
-		"transaction_id": 1072,
-		"client_id": 1011,
-		"card": "5224 6552 5428 8492",
-		"transaction_sum": 8411.00
+		"transaction_id": 73,
+		"card_number": 5178183589759463,
+		"transaction_sum": 82.88
 	},
 	{
-		"transaction_id": 1073,
-		"client_id": 1005,
-		"card": "4976 222 41 6217",
-		"transaction_sum": 7001.12
+		"transaction_id": 74,
+		"card_number": 5381435892838126,
+		"transaction_sum": 134.40
 	},
 	{
-		"transaction_id": 1074,
-		"client_id": 1011,
-		"card": "453255 4278714442",
-		"transaction_sum": 7696.44
+		"transaction_id": 75,
+		"card_number": 5565926734656484,
+		"transaction_sum": 435.61
 	},
 	{
-		"transaction_id": 1075,
-		"client_id": 1013,
-		"card": "552611 579378 7269",
-		"transaction_sum": 8436.87
+		"transaction_id": 76,
+		"card_number": 4532884855783365,
+		"transaction_sum": 128.33
 	},
 	{
-		"transaction_id": 1076,
-		"client_id": 1008,
-		"card": "5416618847581839",
-		"transaction_sum": 2559.06
+		"transaction_id": 77,
+		"card_number": 5572628335768673,
+		"transaction_sum": 131.66
 	},
 	{
-		"transaction_id": 1077,
-		"client_id": 1010,
-		"card": "522 64239 15986 915",
-		"transaction_sum": 610.20
+		"transaction_id": 78,
+		"card_number": 5572628335768673,
+		"transaction_sum": 35.64
 	},
 	{
-		"transaction_id": 1078,
-		"client_id": 1014,
-		"card": "4539735387232",
-		"transaction_sum": 9862.43
+		"transaction_id": 79,
+		"card_number": 5381435892838126,
+		"transaction_sum": 61.90
 	},
 	{
-		"transaction_id": 1079,
-		"client_id": 1003,
-		"card": "5353968575332565",
-		"transaction_sum": 9021.01
+		"transaction_id": 80,
+		"card_number": 5266522748472570,
+		"transaction_sum": 403.89
 	},
 	{
-		"transaction_id": 1080,
-		"client_id": 1009,
-		"card": "4532 555 42 7386",
-		"transaction_sum": 7966.75
+		"transaction_id": 81,
+		"card_number": 5572628335768673,
+		"transaction_sum": 328.40
 	},
 	{
-		"transaction_id": 1081,
-		"client_id": 1013,
-		"card": "492943 4238843378",
-		"transaction_sum": 5661.82
+		"transaction_id": 82,
+		"card_number": 5572628335768673,
+		"transaction_sum": 97.24
 	},
 	{
-		"transaction_id": 1082,
-		"client_id": 1013,
-		"card": "4916518811499",
-		"transaction_sum": 7745.75
+		"transaction_id": 83,
+		"card_number": 4024007123875426,
+		"transaction_sum": 99.48
 	},
 	{
-		"transaction_id": 1083,
-		"client_id": 1009,
-		"card": "453972 6788846665",
-		"transaction_sum": 5744.75
+		"transaction_id": 84,
+		"card_number": 5165755833248735,
+		"transaction_sum": 50.95
 	},
 	{
-		"transaction_id": 1084,
-		"client_id": 1014,
-		"card": "453 97255 44253 844",
-		"transaction_sum": 4058.35
+		"transaction_id": 85,
+		"card_number": 5572628335768673,
+		"transaction_sum": 399.78
 	},
 	{
-		"transaction_id": 1085,
-		"client_id": 1015,
-		"card": "553698 7747194455",
-		"transaction_sum": 9586.80
+		"transaction_id": 86,
+		"card_number": 5366456425369412,
+		"transaction_sum": 347.39
 	},
 	{
-		"transaction_id": 1086,
-		"client_id": 1013,
-		"card": "402400 718587 5223",
-		"transaction_sum": 2450.56
+		"transaction_id": 87,
+		"card_number": 5366456425369412,
+		"transaction_sum": 38.29
 	},
 	{
-		"transaction_id": 1087,
-		"client_id": 1007,
-		"card": "543682 356412 8188",
-		"transaction_sum": 8645.28
+		"transaction_id": 88,
+		"card_number": 5266522748472570,
+		"transaction_sum": 233.38
 	},
 	{
-		"transaction_id": 1088,
-		"client_id": 1019,
-		"card": "5114 9857 1484 2619",
-		"transaction_sum": 6650.02
+		"transaction_id": 89,
+		"card_number": 5266522748472570,
+		"transaction_sum": 204.55
 	},
 	{
-		"transaction_id": 1089,
-		"client_id": 1010,
-		"card": "4916331385952",
-		"transaction_sum": 5689.38
+		"transaction_id": 90,
+		"card_number": 5165755833248735,
+		"transaction_sum": 297.28
 	},
 	{
-		"transaction_id": 1090,
-		"client_id": 1017,
-		"card": "523 75316 68534 547",
-		"transaction_sum": 3339.82
+		"transaction_id": 91,
+		"card_number": 5165755833248735,
+		"transaction_sum": 94.74
 	},
 	{
-		"transaction_id": 1091,
-		"client_id": 1004,
-		"card": "542 35864 93271 222",
-		"transaction_sum": 1050.25
+		"transaction_id": 92,
+		"card_number": 5366456425369412,
+		"transaction_sum": 159.79
 	},
 	{
-		"transaction_id": 1092,
-		"client_id": 1001,
-		"card": "5565853978648375",
-		"transaction_sum": 3080.85
+		"transaction_id": 93,
+		"card_number": 5565926734656484,
+		"transaction_sum": 66.16
 	},
 	{
-		"transaction_id": 1093,
-		"client_id": 1003,
-		"card": "4556374882539",
-		"transaction_sum": 4845.25
+		"transaction_id": 94,
+		"card_number": 5381435892838126,
+		"transaction_sum": 457.85
 	},
 	{
-		"transaction_id": 1094,
-		"client_id": 1007,
-		"card": "554971 568839 6135",
-		"transaction_sum": 460.45
+		"transaction_id": 95,
+		"card_number": 5266522748472570,
+		"transaction_sum": 259.76
 	},
 	{
-		"transaction_id": 1095,
-		"client_id": 1012,
-		"card": "532693 7686735762",
-		"transaction_sum": 2190.47
+		"transaction_id": 96,
+		"card_number": 5257213687345123,
+		"transaction_sum": 160.45
 	},
 	{
-		"transaction_id": 1096,
-		"client_id": 1007,
-		"card": "532349 9522173743",
-		"transaction_sum": 1412.76
+		"transaction_id": 97,
+		"card_number": 4024007123875426,
+		"transaction_sum": 467.25
 	},
 	{
-		"transaction_id": 1097,
-		"client_id": 1006,
-		"card": "517598 1763245826",
-		"transaction_sum": 9024.01
+		"transaction_id": 98,
+		"card_number": 5366456425369412,
+		"transaction_sum": 82.94
 	},
 	{
-		"transaction_id": 1098,
-		"client_id": 1008,
-		"card": "5581 8421 4737 3627",
-		"transaction_sum": 7593.56
+		"transaction_id": 99,
+		"card_number": 5366456425369412,
+		"transaction_sum": 58.81
 	},
 	{
-		"transaction_id": 1099,
-		"client_id": 1003,
-		"card": "4716945448425679",
-		"transaction_sum": 9143.84
+		"transaction_id": 100,
+		"card_number": 5572628335768673,
+		"transaction_sum": 58.49
+	},
+	{
+		"transaction_id": 101,
+		"card_number": 5381435892838126,
+		"transaction_sum": 272.35
+	},
+	{
+		"transaction_id": 102,
+		"card_number": 5266522748472570,
+		"transaction_sum": 133.45
+	},
+	{
+		"transaction_id": 103,
+		"card_number": 5178183589759463,
+		"transaction_sum": 49.15
+	},
+	{
+		"transaction_id": 104,
+		"card_number": 5266522748472570,
+		"transaction_sum": 229.48
+	},
+	{
+		"transaction_id": 105,
+		"card_number": 4024007123875426,
+		"transaction_sum": 86.89
+	},
+	{
+		"transaction_id": 106,
+		"card_number": 5165755833248735,
+		"transaction_sum": 197.93
+	},
+	{
+		"transaction_id": 107,
+		"card_number": 5366456425369412,
+		"transaction_sum": 475.37
+	},
+	{
+		"transaction_id": 108,
+		"card_number": 4024007123875426,
+		"transaction_sum": 363.67
+	},
+	{
+		"transaction_id": 109,
+		"card_number": 4024007123875426,
+		"transaction_sum": 390.47
+	},
+	{
+		"transaction_id": 110,
+		"card_number": 5572628335768673,
+		"transaction_sum": 16.12
+	},
+	{
+		"transaction_id": 111,
+		"card_number": 5572628335768673,
+		"transaction_sum": 59.16
+	},
+	{
+		"transaction_id": 112,
+		"card_number": 4024007123875426,
+		"transaction_sum": 480.62
+	},
+	{
+		"transaction_id": 113,
+		"card_number": 5257213687345123,
+		"transaction_sum": 419.46
+	},
+	{
+		"transaction_id": 114,
+		"card_number": 5165755833248735,
+		"transaction_sum": 53.12
+	},
+	{
+		"transaction_id": 115,
+		"card_number": 5257213687345123,
+		"transaction_sum": 201.36
+	},
+	{
+		"transaction_id": 116,
+		"card_number": 5178183589759463,
+		"transaction_sum": 187.84
+	},
+	{
+		"transaction_id": 117,
+		"card_number": 5178183589759463,
+		"transaction_sum": 276.94
+	},
+	{
+		"transaction_id": 118,
+		"card_number": 4024007123875426,
+		"transaction_sum": 290.86
+	},
+	{
+		"transaction_id": 119,
+		"card_number": 4532884855783365,
+		"transaction_sum": 97.46
+	},
+	{
+		"transaction_id": 120,
+		"card_number": 5165755833248735,
+		"transaction_sum": 252.78
+	},
+	{
+		"transaction_id": 121,
+		"card_number": 5565926734656484,
+		"transaction_sum": 470.38
+	},
+	{
+		"transaction_id": 122,
+		"card_number": 4532884855783365,
+		"transaction_sum": 137.46
+	},
+	{
+		"transaction_id": 123,
+		"card_number": 5257213687345123,
+		"transaction_sum": 188.13
+	},
+	{
+		"transaction_id": 124,
+		"card_number": 5565926734656484,
+		"transaction_sum": 298.13
+	},
+	{
+		"transaction_id": 125,
+		"card_number": 4024007123875426,
+		"transaction_sum": 273.68
+	},
+	{
+		"transaction_id": 126,
+		"card_number": 5266522748472570,
+		"transaction_sum": 467.60
+	},
+	{
+		"transaction_id": 127,
+		"card_number": 5257213687345123,
+		"transaction_sum": 369.11
+	},
+	{
+		"transaction_id": 128,
+		"card_number": 5572628335768673,
+		"transaction_sum": 99.44
+	},
+	{
+		"transaction_id": 129,
+		"card_number": 4532884855783365,
+		"transaction_sum": 96.18
+	},
+	{
+		"transaction_id": 130,
+		"card_number": 5165755833248735,
+		"transaction_sum": 342.51
+	},
+	{
+		"transaction_id": 131,
+		"card_number": 4532884855783365,
+		"transaction_sum": 21.37
+	},
+	{
+		"transaction_id": 132,
+		"card_number": 5266522748472570,
+		"transaction_sum": 233.85
+	},
+	{
+		"transaction_id": 133,
+		"card_number": 5572628335768673,
+		"transaction_sum": 163.66
+	},
+	{
+		"transaction_id": 134,
+		"card_number": 4024007123875426,
+		"transaction_sum": 369.62
+	},
+	{
+		"transaction_id": 135,
+		"card_number": 4532884855783365,
+		"transaction_sum": 85.93
+	},
+	{
+		"transaction_id": 136,
+		"card_number": 5257213687345123,
+		"transaction_sum": 45.45
+	},
+	{
+		"transaction_id": 137,
+		"card_number": 4024007123875426,
+		"transaction_sum": 447.93
+	},
+	{
+		"transaction_id": 138,
+		"card_number": 4024007123875426,
+		"transaction_sum": 192.47
+	},
+	{
+		"transaction_id": 139,
+		"card_number": 5178183589759463,
+		"transaction_sum": 349.68
+	},
+	{
+		"transaction_id": 140,
+		"card_number": 5266522748472570,
+		"transaction_sum": 436.74
+	},
+	{
+		"transaction_id": 141,
+		"card_number": 5257213687345123,
+		"transaction_sum": 21.05
+	},
+	{
+		"transaction_id": 142,
+		"card_number": 5178183589759463,
+		"transaction_sum": 38.90
+	},
+	{
+		"transaction_id": 143,
+		"card_number": 4024007123875426,
+		"transaction_sum": 44.88
+	},
+	{
+		"transaction_id": 144,
+		"card_number": 5257213687345123,
+		"transaction_sum": 327.51
+	},
+	{
+		"transaction_id": 145,
+		"card_number": 5565926734656484,
+		"transaction_sum": 272.08
+	},
+	{
+		"transaction_id": 146,
+		"card_number": 4532884855783365,
+		"transaction_sum": 313.13
+	},
+	{
+		"transaction_id": 147,
+		"card_number": 5257213687345123,
+		"transaction_sum": 443.46
+	},
+	{
+		"transaction_id": 148,
+		"card_number": 5257213687345123,
+		"transaction_sum": 109.71
+	},
+	{
+		"transaction_id": 149,
+		"card_number": 5572628335768673,
+		"transaction_sum": 114.93
+	},
+	{
+		"transaction_id": 150,
+		"card_number": 5565926734656484,
+		"transaction_sum": 41.79
+	},
+	{
+		"transaction_id": 151,
+		"card_number": 4532884855783365,
+		"transaction_sum": 273.03
+	},
+	{
+		"transaction_id": 152,
+		"card_number": 5572628335768673,
+		"transaction_sum": 267.71
+	},
+	{
+		"transaction_id": 153,
+		"card_number": 4532884855783365,
+		"transaction_sum": 370.66
+	},
+	{
+		"transaction_id": 154,
+		"card_number": 5565926734656484,
+		"transaction_sum": 127.10
+	},
+	{
+		"transaction_id": 155,
+		"card_number": 5257213687345123,
+		"transaction_sum": 370.60
+	},
+	{
+		"transaction_id": 156,
+		"card_number": 5572628335768673,
+		"transaction_sum": 435.23
+	},
+	{
+		"transaction_id": 157,
+		"card_number": 5178183589759463,
+		"transaction_sum": 491.52
+	},
+	{
+		"transaction_id": 158,
+		"card_number": 5565926734656484,
+		"transaction_sum": 214.58
+	},
+	{
+		"transaction_id": 159,
+		"card_number": 4024007123875426,
+		"transaction_sum": 211.49
+	},
+	{
+		"transaction_id": 160,
+		"card_number": 4532884855783365,
+		"transaction_sum": 201.08
+	},
+	{
+		"transaction_id": 161,
+		"card_number": 5165755833248735,
+		"transaction_sum": 349.27
+	},
+	{
+		"transaction_id": 162,
+		"card_number": 5366456425369412,
+		"transaction_sum": 462.27
+	},
+	{
+		"transaction_id": 163,
+		"card_number": 5366456425369412,
+		"transaction_sum": 129.27
+	},
+	{
+		"transaction_id": 164,
+		"card_number": 4532884855783365,
+		"transaction_sum": 77.29
+	},
+	{
+		"transaction_id": 165,
+		"card_number": 5266522748472570,
+		"transaction_sum": 181.38
+	},
+	{
+		"transaction_id": 166,
+		"card_number": 5572628335768673,
+		"transaction_sum": 120.63
+	},
+	{
+		"transaction_id": 167,
+		"card_number": 5565926734656484,
+		"transaction_sum": 439.90
+	},
+	{
+		"transaction_id": 168,
+		"card_number": 5565926734656484,
+		"transaction_sum": 165.83
+	},
+	{
+		"transaction_id": 169,
+		"card_number": 5266522748472570,
+		"transaction_sum": 433.60
+	},
+	{
+		"transaction_id": 170,
+		"card_number": 5381435892838126,
+		"transaction_sum": 422.12
+	},
+	{
+		"transaction_id": 171,
+		"card_number": 5572628335768673,
+		"transaction_sum": 256.08
+	},
+	{
+		"transaction_id": 172,
+		"card_number": 5572628335768673,
+		"transaction_sum": 400.04
+	},
+	{
+		"transaction_id": 173,
+		"card_number": 5165755833248735,
+		"transaction_sum": 188.87
+	},
+	{
+		"transaction_id": 174,
+		"card_number": 5266522748472570,
+		"transaction_sum": 357.53
+	},
+	{
+		"transaction_id": 175,
+		"card_number": 5178183589759463,
+		"transaction_sum": 12.24
+	},
+	{
+		"transaction_id": 176,
+		"card_number": 5178183589759463,
+		"transaction_sum": 113.43
+	},
+	{
+		"transaction_id": 177,
+		"card_number": 4532884855783365,
+		"transaction_sum": 128.27
+	},
+	{
+		"transaction_id": 178,
+		"card_number": 4024007123875426,
+		"transaction_sum": 312.05
+	},
+	{
+		"transaction_id": 179,
+		"card_number": 5572628335768673,
+		"transaction_sum": 318.05
+	},
+	{
+		"transaction_id": 180,
+		"card_number": 5165755833248735,
+		"transaction_sum": 142.52
+	},
+	{
+		"transaction_id": 181,
+		"card_number": 5572628335768673,
+		"transaction_sum": 351.59
+	},
+	{
+		"transaction_id": 182,
+		"card_number": 5165755833248735,
+		"transaction_sum": 349.67
+	},
+	{
+		"transaction_id": 183,
+		"card_number": 5257213687345123,
+		"transaction_sum": 267.43
+	},
+	{
+		"transaction_id": 184,
+		"card_number": 5178183589759463,
+		"transaction_sum": 305.23
+	},
+	{
+		"transaction_id": 185,
+		"card_number": 5381435892838126,
+		"transaction_sum": 395.34
+	},
+	{
+		"transaction_id": 186,
+		"card_number": 5165755833248735,
+		"transaction_sum": 471.85
+	},
+	{
+		"transaction_id": 187,
+		"card_number": 5366456425369412,
+		"transaction_sum": 428.26
+	},
+	{
+		"transaction_id": 188,
+		"card_number": 5572628335768673,
+		"transaction_sum": 86.88
+	},
+	{
+		"transaction_id": 189,
+		"card_number": 5257213687345123,
+		"transaction_sum": 141.85
+	},
+	{
+		"transaction_id": 190,
+		"card_number": 5266522748472570,
+		"transaction_sum": 77.03
+	},
+	{
+		"transaction_id": 191,
+		"card_number": 5178183589759463,
+		"transaction_sum": 269.82
+	},
+	{
+		"transaction_id": 192,
+		"card_number": 5257213687345123,
+		"transaction_sum": 301.69
+	},
+	{
+		"transaction_id": 193,
+		"card_number": 5266522748472570,
+		"transaction_sum": 373.00
+	},
+	{
+		"transaction_id": 194,
+		"card_number": 5165755833248735,
+		"transaction_sum": 151.95
+	},
+	{
+		"transaction_id": 195,
+		"card_number": 5165755833248735,
+		"transaction_sum": 213.09
+	},
+	{
+		"transaction_id": 196,
+		"card_number": 5572628335768673,
+		"transaction_sum": 43.51
+	},
+	{
+		"transaction_id": 197,
+		"card_number": 5165755833248735,
+		"transaction_sum": 418.65
+	},
+	{
+		"transaction_id": 198,
+		"card_number": 4532884855783365,
+		"transaction_sum": 482.50
+	},
+	{
+		"transaction_id": 199,
+		"card_number": 5366456425369412,
+		"transaction_sum": 250.40
+	},
+	{
+		"transaction_id": 200,
+		"card_number": 5178183589759463,
+		"transaction_sum": 380.04
+	},
+	{
+		"transaction_id": 201,
+		"card_number": 5165755833248735,
+		"transaction_sum": 108.31
+	},
+	{
+		"transaction_id": 202,
+		"card_number": 5565926734656484,
+		"transaction_sum": 75.66
+	},
+	{
+		"transaction_id": 203,
+		"card_number": 5572628335768673,
+		"transaction_sum": 230.22
+	},
+	{
+		"transaction_id": 204,
+		"card_number": 5565926734656484,
+		"transaction_sum": 469.25
+	},
+	{
+		"transaction_id": 205,
+		"card_number": 5366456425369412,
+		"transaction_sum": 455.46
+	},
+	{
+		"transaction_id": 206,
+		"card_number": 4532884855783365,
+		"transaction_sum": 126.37
+	},
+	{
+		"transaction_id": 207,
+		"card_number": 5165755833248735,
+		"transaction_sum": 210.02
+	},
+	{
+		"transaction_id": 208,
+		"card_number": 5266522748472570,
+		"transaction_sum": 114.33
+	},
+	{
+		"transaction_id": 209,
+		"card_number": 5266522748472570,
+		"transaction_sum": 248.06
+	},
+	{
+		"transaction_id": 210,
+		"card_number": 5572628335768673,
+		"transaction_sum": 94.96
+	},
+	{
+		"transaction_id": 211,
+		"card_number": 5266522748472570,
+		"transaction_sum": 138.25
+	},
+	{
+		"transaction_id": 212,
+		"card_number": 5266522748472570,
+		"transaction_sum": 147.05
+	},
+	{
+		"transaction_id": 213,
+		"card_number": 5565926734656484,
+		"transaction_sum": 449.19
+	},
+	{
+		"transaction_id": 214,
+		"card_number": 5366456425369412,
+		"transaction_sum": 88.87
+	},
+	{
+		"transaction_id": 215,
+		"card_number": 5381435892838126,
+		"transaction_sum": 25.76
+	},
+	{
+		"transaction_id": 216,
+		"card_number": 5257213687345123,
+		"transaction_sum": 225.73
+	},
+	{
+		"transaction_id": 217,
+		"card_number": 5565926734656484,
+		"transaction_sum": 359.65
+	},
+	{
+		"transaction_id": 218,
+		"card_number": 5257213687345123,
+		"transaction_sum": 49.27
+	},
+	{
+		"transaction_id": 219,
+		"card_number": 5366456425369412,
+		"transaction_sum": 345.58
+	},
+	{
+		"transaction_id": 220,
+		"card_number": 5257213687345123,
+		"transaction_sum": 473.87
+	},
+	{
+		"transaction_id": 221,
+		"card_number": 5381435892838126,
+		"transaction_sum": 133.14
+	},
+	{
+		"transaction_id": 222,
+		"card_number": 5381435892838126,
+		"transaction_sum": 217.42
+	},
+	{
+		"transaction_id": 223,
+		"card_number": 5381435892838126,
+		"transaction_sum": 311.45
+	},
+	{
+		"transaction_id": 224,
+		"card_number": 5572628335768673,
+		"transaction_sum": 51.07
+	},
+	{
+		"transaction_id": 225,
+		"card_number": 5572628335768673,
+		"transaction_sum": 106.57
+	},
+	{
+		"transaction_id": 226,
+		"card_number": 5266522748472570,
+		"transaction_sum": 476.93
+	},
+	{
+		"transaction_id": 227,
+		"card_number": 5366456425369412,
+		"transaction_sum": 311.95
+	},
+	{
+		"transaction_id": 228,
+		"card_number": 5165755833248735,
+		"transaction_sum": 340.07
+	},
+	{
+		"transaction_id": 229,
+		"card_number": 5366456425369412,
+		"transaction_sum": 75.09
+	},
+	{
+		"transaction_id": 230,
+		"card_number": 5565926734656484,
+		"transaction_sum": 114.47
+	},
+	{
+		"transaction_id": 231,
+		"card_number": 5178183589759463,
+		"transaction_sum": 121.88
+	},
+	{
+		"transaction_id": 232,
+		"card_number": 5266522748472570,
+		"transaction_sum": 460.42
+	},
+	{
+		"transaction_id": 233,
+		"card_number": 5266522748472570,
+		"transaction_sum": 109.15
+	},
+	{
+		"transaction_id": 234,
+		"card_number": 4024007123875426,
+		"transaction_sum": 401.89
+	},
+	{
+		"transaction_id": 235,
+		"card_number": 5381435892838126,
+		"transaction_sum": 59.87
+	},
+	{
+		"transaction_id": 236,
+		"card_number": 4532884855783365,
+		"transaction_sum": 401.67
+	},
+	{
+		"transaction_id": 237,
+		"card_number": 5178183589759463,
+		"transaction_sum": 115.09
+	},
+	{
+		"transaction_id": 238,
+		"card_number": 4024007123875426,
+		"transaction_sum": 140.24
+	},
+	{
+		"transaction_id": 239,
+		"card_number": 5178183589759463,
+		"transaction_sum": 381.72
+	},
+	{
+		"transaction_id": 240,
+		"card_number": 5178183589759463,
+		"transaction_sum": 185.30
+	},
+	{
+		"transaction_id": 241,
+		"card_number": 5381435892838126,
+		"transaction_sum": 154.88
+	},
+	{
+		"transaction_id": 242,
+		"card_number": 5572628335768673,
+		"transaction_sum": 60.75
+	},
+	{
+		"transaction_id": 243,
+		"card_number": 4024007123875426,
+		"transaction_sum": 393.19
+	},
+	{
+		"transaction_id": 244,
+		"card_number": 5572628335768673,
+		"transaction_sum": 311.39
+	},
+	{
+		"transaction_id": 245,
+		"card_number": 5381435892838126,
+		"transaction_sum": 486.34
+	},
+	{
+		"transaction_id": 246,
+		"card_number": 5572628335768673,
+		"transaction_sum": 379.06
+	},
+	{
+		"transaction_id": 247,
+		"card_number": 5178183589759463,
+		"transaction_sum": 293.47
+	},
+	{
+		"transaction_id": 248,
+		"card_number": 5381435892838126,
+		"transaction_sum": 191.03
+	},
+	{
+		"transaction_id": 249,
+		"card_number": 5266522748472570,
+		"transaction_sum": 285.64
+	},
+	{
+		"transaction_id": 250,
+		"card_number": 5178183589759463,
+		"transaction_sum": 434.72
+	},
+	{
+		"transaction_id": 251,
+		"card_number": 5565926734656484,
+		"transaction_sum": 346.11
+	},
+	{
+		"transaction_id": 252,
+		"card_number": 5366456425369412,
+		"transaction_sum": 157.63
+	},
+	{
+		"transaction_id": 253,
+		"card_number": 5366456425369412,
+		"transaction_sum": 125.51
+	},
+	{
+		"transaction_id": 254,
+		"card_number": 5381435892838126,
+		"transaction_sum": 445.22
+	},
+	{
+		"transaction_id": 255,
+		"card_number": 5178183589759463,
+		"transaction_sum": 55.70
+	},
+	{
+		"transaction_id": 256,
+		"card_number": 5565926734656484,
+		"transaction_sum": 366.65
+	},
+	{
+		"transaction_id": 257,
+		"card_number": 5178183589759463,
+		"transaction_sum": 384.30
+	},
+	{
+		"transaction_id": 258,
+		"card_number": 5565926734656484,
+		"transaction_sum": 79.13
+	},
+	{
+		"transaction_id": 259,
+		"card_number": 5266522748472570,
+		"transaction_sum": 474.44
+	},
+	{
+		"transaction_id": 260,
+		"card_number": 5165755833248735,
+		"transaction_sum": 65.70
+	},
+	{
+		"transaction_id": 261,
+		"card_number": 4024007123875426,
+		"transaction_sum": 303.57
+	},
+	{
+		"transaction_id": 262,
+		"card_number": 5381435892838126,
+		"transaction_sum": 203.69
+	},
+	{
+		"transaction_id": 263,
+		"card_number": 5572628335768673,
+		"transaction_sum": 59.98
+	},
+	{
+		"transaction_id": 264,
+		"card_number": 4532884855783365,
+		"transaction_sum": 269.17
+	},
+	{
+		"transaction_id": 265,
+		"card_number": 5178183589759463,
+		"transaction_sum": 165.35
+	},
+	{
+		"transaction_id": 266,
+		"card_number": 4532884855783365,
+		"transaction_sum": 212.07
+	},
+	{
+		"transaction_id": 267,
+		"card_number": 4532884855783365,
+		"transaction_sum": 202.40
+	},
+	{
+		"transaction_id": 268,
+		"card_number": 5572628335768673,
+		"transaction_sum": 341.06
+	},
+	{
+		"transaction_id": 269,
+		"card_number": 4532884855783365,
+		"transaction_sum": 474.51
+	},
+	{
+		"transaction_id": 270,
+		"card_number": 5381435892838126,
+		"transaction_sum": 468.82
+	},
+	{
+		"transaction_id": 271,
+		"card_number": 4024007123875426,
+		"transaction_sum": 105.13
+	},
+	{
+		"transaction_id": 272,
+		"card_number": 4532884855783365,
+		"transaction_sum": 353.40
+	},
+	{
+		"transaction_id": 273,
+		"card_number": 4532884855783365,
+		"transaction_sum": 254.04
+	},
+	{
+		"transaction_id": 274,
+		"card_number": 5257213687345123,
+		"transaction_sum": 155.29
+	},
+	{
+		"transaction_id": 275,
+		"card_number": 5266522748472570,
+		"transaction_sum": 19.35
+	},
+	{
+		"transaction_id": 276,
+		"card_number": 4532884855783365,
+		"transaction_sum": 104.21
+	},
+	{
+		"transaction_id": 277,
+		"card_number": 5366456425369412,
+		"transaction_sum": 444.89
+	},
+	{
+		"transaction_id": 278,
+		"card_number": 4024007123875426,
+		"transaction_sum": 452.43
+	},
+	{
+		"transaction_id": 279,
+		"card_number": 5366456425369412,
+		"transaction_sum": 466.80
+	},
+	{
+		"transaction_id": 280,
+		"card_number": 4024007123875426,
+		"transaction_sum": 353.55
+	},
+	{
+		"transaction_id": 281,
+		"card_number": 5366456425369412,
+		"transaction_sum": 334.96
+	},
+	{
+		"transaction_id": 282,
+		"card_number": 5178183589759463,
+		"transaction_sum": 497.92
+	},
+	{
+		"transaction_id": 283,
+		"card_number": 4532884855783365,
+		"transaction_sum": 53.11
+	},
+	{
+		"transaction_id": 284,
+		"card_number": 5257213687345123,
+		"transaction_sum": 167.67
+	},
+	{
+		"transaction_id": 285,
+		"card_number": 5165755833248735,
+		"transaction_sum": 360.75
+	},
+	{
+		"transaction_id": 286,
+		"card_number": 5572628335768673,
+		"transaction_sum": 261.25
+	},
+	{
+		"transaction_id": 287,
+		"card_number": 5572628335768673,
+		"transaction_sum": 101.18
+	},
+	{
+		"transaction_id": 288,
+		"card_number": 5366456425369412,
+		"transaction_sum": 235.89
+	},
+	{
+		"transaction_id": 289,
+		"card_number": 5165755833248735,
+		"transaction_sum": 279.63
+	},
+	{
+		"transaction_id": 290,
+		"card_number": 5572628335768673,
+		"transaction_sum": 330.88
+	},
+	{
+		"transaction_id": 291,
+		"card_number": 5266522748472570,
+		"transaction_sum": 404.83
+	},
+	{
+		"transaction_id": 292,
+		"card_number": 5366456425369412,
+		"transaction_sum": 371.21
+	},
+	{
+		"transaction_id": 293,
+		"card_number": 5178183589759463,
+		"transaction_sum": 265.89
+	},
+	{
+		"transaction_id": 294,
+		"card_number": 5572628335768673,
+		"transaction_sum": 378.24
+	},
+	{
+		"transaction_id": 295,
+		"card_number": 5381435892838126,
+		"transaction_sum": 278.58
+	},
+	{
+		"transaction_id": 296,
+		"card_number": 5381435892838126,
+		"transaction_sum": 386.88
+	},
+	{
+		"transaction_id": 297,
+		"card_number": 5266522748472570,
+		"transaction_sum": 109.38
+	},
+	{
+		"transaction_id": 298,
+		"card_number": 5165755833248735,
+		"transaction_sum": 305.00
+	},
+	{
+		"transaction_id": 299,
+		"card_number": 5366456425369412,
+		"transaction_sum": 468.74
+	},
+	{
+		"transaction_id": 300,
+		"card_number": 5266522748472570,
+		"transaction_sum": 445.78
+	},
+	{
+		"transaction_id": 301,
+		"card_number": 5257213687345123,
+		"transaction_sum": 462.96
+	},
+	{
+		"transaction_id": 302,
+		"card_number": 5165755833248735,
+		"transaction_sum": 284.24
+	},
+	{
+		"transaction_id": 303,
+		"card_number": 5266522748472570,
+		"transaction_sum": 48.91
+	},
+	{
+		"transaction_id": 304,
+		"card_number": 5572628335768673,
+		"transaction_sum": 187.11
+	},
+	{
+		"transaction_id": 305,
+		"card_number": 5257213687345123,
+		"transaction_sum": 382.70
+	},
+	{
+		"transaction_id": 306,
+		"card_number": 5366456425369412,
+		"transaction_sum": 173.88
+	},
+	{
+		"transaction_id": 307,
+		"card_number": 4532884855783365,
+		"transaction_sum": 437.36
+	},
+	{
+		"transaction_id": 308,
+		"card_number": 5572628335768673,
+		"transaction_sum": 452.61
+	},
+	{
+		"transaction_id": 309,
+		"card_number": 5572628335768673,
+		"transaction_sum": 202.05
+	},
+	{
+		"transaction_id": 310,
+		"card_number": 5381435892838126,
+		"transaction_sum": 348.23
+	},
+	{
+		"transaction_id": 311,
+		"card_number": 5381435892838126,
+		"transaction_sum": 141.27
+	},
+	{
+		"transaction_id": 312,
+		"card_number": 5572628335768673,
+		"transaction_sum": 53.50
+	},
+	{
+		"transaction_id": 313,
+		"card_number": 5381435892838126,
+		"transaction_sum": 489.61
+	},
+	{
+		"transaction_id": 314,
+		"card_number": 4024007123875426,
+		"transaction_sum": 439.08
+	},
+	{
+		"transaction_id": 315,
+		"card_number": 4024007123875426,
+		"transaction_sum": 451.08
+	},
+	{
+		"transaction_id": 316,
+		"card_number": 5257213687345123,
+		"transaction_sum": 338.99
+	},
+	{
+		"transaction_id": 317,
+		"card_number": 5565926734656484,
+		"transaction_sum": 73.66
+	},
+	{
+		"transaction_id": 318,
+		"card_number": 5565926734656484,
+		"transaction_sum": 17.74
+	},
+	{
+		"transaction_id": 319,
+		"card_number": 5366456425369412,
+		"transaction_sum": 328.81
+	},
+	{
+		"transaction_id": 320,
+		"card_number": 5266522748472570,
+		"transaction_sum": 493.17
+	},
+	{
+		"transaction_id": 321,
+		"card_number": 5565926734656484,
+		"transaction_sum": 181.48
+	},
+	{
+		"transaction_id": 322,
+		"card_number": 5266522748472570,
+		"transaction_sum": 44.61
+	},
+	{
+		"transaction_id": 323,
+		"card_number": 5366456425369412,
+		"transaction_sum": 306.49
+	},
+	{
+		"transaction_id": 324,
+		"card_number": 5178183589759463,
+		"transaction_sum": 302.16
+	},
+	{
+		"transaction_id": 325,
+		"card_number": 5565926734656484,
+		"transaction_sum": 139.45
+	},
+	{
+		"transaction_id": 326,
+		"card_number": 5565926734656484,
+		"transaction_sum": 315.30
+	},
+	{
+		"transaction_id": 327,
+		"card_number": 5381435892838126,
+		"transaction_sum": 396.12
+	},
+	{
+		"transaction_id": 328,
+		"card_number": 5178183589759463,
+		"transaction_sum": 81.15
+	},
+	{
+		"transaction_id": 329,
+		"card_number": 5565926734656484,
+		"transaction_sum": 349.70
+	},
+	{
+		"transaction_id": 330,
+		"card_number": 5178183589759463,
+		"transaction_sum": 124.31
+	},
+	{
+		"transaction_id": 331,
+		"card_number": 5381435892838126,
+		"transaction_sum": 394.09
+	},
+	{
+		"transaction_id": 332,
+		"card_number": 5381435892838126,
+		"transaction_sum": 448.82
+	},
+	{
+		"transaction_id": 333,
+		"card_number": 4532884855783365,
+		"transaction_sum": 223.11
+	},
+	{
+		"transaction_id": 334,
+		"card_number": 5565926734656484,
+		"transaction_sum": 280.33
+	},
+	{
+		"transaction_id": 335,
+		"card_number": 4532884855783365,
+		"transaction_sum": 199.03
+	},
+	{
+		"transaction_id": 336,
+		"card_number": 5572628335768673,
+		"transaction_sum": 297.39
+	},
+	{
+		"transaction_id": 337,
+		"card_number": 5257213687345123,
+		"transaction_sum": 79.63
+	},
+	{
+		"transaction_id": 338,
+		"card_number": 5366456425369412,
+		"transaction_sum": 258.37
+	},
+	{
+		"transaction_id": 339,
+		"card_number": 5381435892838126,
+		"transaction_sum": 470.55
+	},
+	{
+		"transaction_id": 340,
+		"card_number": 4024007123875426,
+		"transaction_sum": 455.79
+	},
+	{
+		"transaction_id": 341,
+		"card_number": 5257213687345123,
+		"transaction_sum": 475.17
+	},
+	{
+		"transaction_id": 342,
+		"card_number": 5165755833248735,
+		"transaction_sum": 333.85
+	},
+	{
+		"transaction_id": 343,
+		"card_number": 5381435892838126,
+		"transaction_sum": 199.60
+	},
+	{
+		"transaction_id": 344,
+		"card_number": 5381435892838126,
+		"transaction_sum": 234.92
+	},
+	{
+		"transaction_id": 345,
+		"card_number": 4532884855783365,
+		"transaction_sum": 187.97
+	},
+	{
+		"transaction_id": 346,
+		"card_number": 5165755833248735,
+		"transaction_sum": 307.87
+	},
+	{
+		"transaction_id": 347,
+		"card_number": 5257213687345123,
+		"transaction_sum": 351.92
+	},
+	{
+		"transaction_id": 348,
+		"card_number": 5266522748472570,
+		"transaction_sum": 218.00
+	},
+	{
+		"transaction_id": 349,
+		"card_number": 5565926734656484,
+		"transaction_sum": 380.96
+	},
+	{
+		"transaction_id": 350,
+		"card_number": 4024007123875426,
+		"transaction_sum": 267.09
+	},
+	{
+		"transaction_id": 351,
+		"card_number": 5572628335768673,
+		"transaction_sum": 213.19
+	},
+	{
+		"transaction_id": 352,
+		"card_number": 5572628335768673,
+		"transaction_sum": 370.02
+	},
+	{
+		"transaction_id": 353,
+		"card_number": 5565926734656484,
+		"transaction_sum": 447.77
+	},
+	{
+		"transaction_id": 354,
+		"card_number": 5266522748472570,
+		"transaction_sum": 338.83
+	},
+	{
+		"transaction_id": 355,
+		"card_number": 5178183589759463,
+		"transaction_sum": 241.95
+	},
+	{
+		"transaction_id": 356,
+		"card_number": 5381435892838126,
+		"transaction_sum": 416.83
+	},
+	{
+		"transaction_id": 357,
+		"card_number": 5366456425369412,
+		"transaction_sum": 150.28
+	},
+	{
+		"transaction_id": 358,
+		"card_number": 5257213687345123,
+		"transaction_sum": 457.32
+	},
+	{
+		"transaction_id": 359,
+		"card_number": 5165755833248735,
+		"transaction_sum": 306.69
+	},
+	{
+		"transaction_id": 360,
+		"card_number": 5572628335768673,
+		"transaction_sum": 202.53
+	},
+	{
+		"transaction_id": 361,
+		"card_number": 5178183589759463,
+		"transaction_sum": 163.26
+	},
+	{
+		"transaction_id": 362,
+		"card_number": 5266522748472570,
+		"transaction_sum": 85.22
+	},
+	{
+		"transaction_id": 363,
+		"card_number": 4024007123875426,
+		"transaction_sum": 325.39
+	},
+	{
+		"transaction_id": 364,
+		"card_number": 5366456425369412,
+		"transaction_sum": 345.44
+	},
+	{
+		"transaction_id": 365,
+		"card_number": 5565926734656484,
+		"transaction_sum": 217.68
+	},
+	{
+		"transaction_id": 366,
+		"card_number": 5366456425369412,
+		"transaction_sum": 466.09
+	},
+	{
+		"transaction_id": 367,
+		"card_number": 4532884855783365,
+		"transaction_sum": 226.00
+	},
+	{
+		"transaction_id": 368,
+		"card_number": 5257213687345123,
+		"transaction_sum": 142.27
+	},
+	{
+		"transaction_id": 369,
+		"card_number": 5366456425369412,
+		"transaction_sum": 174.71
+	},
+	{
+		"transaction_id": 370,
+		"card_number": 5266522748472570,
+		"transaction_sum": 109.30
+	},
+	{
+		"transaction_id": 371,
+		"card_number": 4024007123875426,
+		"transaction_sum": 352.48
+	},
+	{
+		"transaction_id": 372,
+		"card_number": 5381435892838126,
+		"transaction_sum": 12.35
+	},
+	{
+		"transaction_id": 373,
+		"card_number": 5178183589759463,
+		"transaction_sum": 367.31
+	},
+	{
+		"transaction_id": 374,
+		"card_number": 5266522748472570,
+		"transaction_sum": 274.21
+	},
+	{
+		"transaction_id": 375,
+		"card_number": 4024007123875426,
+		"transaction_sum": 80.73
+	},
+	{
+		"transaction_id": 376,
+		"card_number": 5572628335768673,
+		"transaction_sum": 349.33
+	},
+	{
+		"transaction_id": 377,
+		"card_number": 5565926734656484,
+		"transaction_sum": 67.26
+	},
+	{
+		"transaction_id": 378,
+		"card_number": 5257213687345123,
+		"transaction_sum": 264.30
+	},
+	{
+		"transaction_id": 379,
+		"card_number": 4532884855783365,
+		"transaction_sum": 309.09
+	},
+	{
+		"transaction_id": 380,
+		"card_number": 5381435892838126,
+		"transaction_sum": 258.56
+	},
+	{
+		"transaction_id": 381,
+		"card_number": 4024007123875426,
+		"transaction_sum": 255.96
+	},
+	{
+		"transaction_id": 382,
+		"card_number": 5178183589759463,
+		"transaction_sum": 181.43
+	},
+	{
+		"transaction_id": 383,
+		"card_number": 4024007123875426,
+		"transaction_sum": 130.03
+	},
+	{
+		"transaction_id": 384,
+		"card_number": 4024007123875426,
+		"transaction_sum": 468.17
+	},
+	{
+		"transaction_id": 385,
+		"card_number": 4532884855783365,
+		"transaction_sum": 437.79
+	},
+	{
+		"transaction_id": 386,
+		"card_number": 5572628335768673,
+		"transaction_sum": 479.98
+	},
+	{
+		"transaction_id": 387,
+		"card_number": 5257213687345123,
+		"transaction_sum": 492.44
+	},
+	{
+		"transaction_id": 388,
+		"card_number": 4024007123875426,
+		"transaction_sum": 324.21
+	},
+	{
+		"transaction_id": 389,
+		"card_number": 5257213687345123,
+		"transaction_sum": 206.25
+	},
+	{
+		"transaction_id": 390,
+		"card_number": 5572628335768673,
+		"transaction_sum": 302.92
+	},
+	{
+		"transaction_id": 391,
+		"card_number": 5178183589759463,
+		"transaction_sum": 403.81
+	},
+	{
+		"transaction_id": 392,
+		"card_number": 5257213687345123,
+		"transaction_sum": 289.74
+	},
+	{
+		"transaction_id": 393,
+		"card_number": 5381435892838126,
+		"transaction_sum": 57.30
+	},
+	{
+		"transaction_id": 394,
+		"card_number": 5257213687345123,
+		"transaction_sum": 11.91
+	},
+	{
+		"transaction_id": 395,
+		"card_number": 4024007123875426,
+		"transaction_sum": 399.63
+	},
+	{
+		"transaction_id": 396,
+		"card_number": 4024007123875426,
+		"transaction_sum": 380.80
+	},
+	{
+		"transaction_id": 397,
+		"card_number": 5565926734656484,
+		"transaction_sum": 254.64
+	},
+	{
+		"transaction_id": 398,
+		"card_number": 5572628335768673,
+		"transaction_sum": 210.93
+	},
+	{
+		"transaction_id": 399,
+		"card_number": 5165755833248735,
+		"transaction_sum": 344.07
+	},
+	{
+		"transaction_id": 400,
+		"card_number": 5178183589759463,
+		"transaction_sum": 263.56
+	},
+	{
+		"transaction_id": 401,
+		"card_number": 5257213687345123,
+		"transaction_sum": 369.15
+	},
+	{
+		"transaction_id": 402,
+		"card_number": 4024007123875426,
+		"transaction_sum": 10.22
+	},
+	{
+		"transaction_id": 403,
+		"card_number": 4532884855783365,
+		"transaction_sum": 166.22
+	},
+	{
+		"transaction_id": 404,
+		"card_number": 5178183589759463,
+		"transaction_sum": 364.35
+	},
+	{
+		"transaction_id": 405,
+		"card_number": 5165755833248735,
+		"transaction_sum": 359.70
+	},
+	{
+		"transaction_id": 406,
+		"card_number": 5366456425369412,
+		"transaction_sum": 52.64
+	},
+	{
+		"transaction_id": 407,
+		"card_number": 5366456425369412,
+		"transaction_sum": 136.53
+	},
+	{
+		"transaction_id": 408,
+		"card_number": 5572628335768673,
+		"transaction_sum": 380.01
+	},
+	{
+		"transaction_id": 409,
+		"card_number": 5178183589759463,
+		"transaction_sum": 386.66
+	},
+	{
+		"transaction_id": 410,
+		"card_number": 5257213687345123,
+		"transaction_sum": 52.72
+	},
+	{
+		"transaction_id": 411,
+		"card_number": 5165755833248735,
+		"transaction_sum": 495.25
+	},
+	{
+		"transaction_id": 412,
+		"card_number": 5165755833248735,
+		"transaction_sum": 117.57
+	},
+	{
+		"transaction_id": 413,
+		"card_number": 5165755833248735,
+		"transaction_sum": 110.07
+	},
+	{
+		"transaction_id": 414,
+		"card_number": 5165755833248735,
+		"transaction_sum": 452.13
+	},
+	{
+		"transaction_id": 415,
+		"card_number": 5572628335768673,
+		"transaction_sum": 222.69
+	},
+	{
+		"transaction_id": 416,
+		"card_number": 5366456425369412,
+		"transaction_sum": 334.53
+	},
+	{
+		"transaction_id": 417,
+		"card_number": 5572628335768673,
+		"transaction_sum": 390.88
+	},
+	{
+		"transaction_id": 418,
+		"card_number": 5165755833248735,
+		"transaction_sum": 45.65
+	},
+	{
+		"transaction_id": 419,
+		"card_number": 4532884855783365,
+		"transaction_sum": 112.64
+	},
+	{
+		"transaction_id": 420,
+		"card_number": 5165755833248735,
+		"transaction_sum": 362.08
+	},
+	{
+		"transaction_id": 421,
+		"card_number": 4532884855783365,
+		"transaction_sum": 452.17
+	},
+	{
+		"transaction_id": 422,
+		"card_number": 5565926734656484,
+		"transaction_sum": 293.92
+	},
+	{
+		"transaction_id": 423,
+		"card_number": 4532884855783365,
+		"transaction_sum": 357.37
+	},
+	{
+		"transaction_id": 424,
+		"card_number": 5381435892838126,
+		"transaction_sum": 474.53
+	},
+	{
+		"transaction_id": 425,
+		"card_number": 4532884855783365,
+		"transaction_sum": 313.42
+	},
+	{
+		"transaction_id": 426,
+		"card_number": 4532884855783365,
+		"transaction_sum": 481.45
+	},
+	{
+		"transaction_id": 427,
+		"card_number": 4532884855783365,
+		"transaction_sum": 324.76
+	},
+	{
+		"transaction_id": 428,
+		"card_number": 5165755833248735,
+		"transaction_sum": 400.92
+	},
+	{
+		"transaction_id": 429,
+		"card_number": 4024007123875426,
+		"transaction_sum": 429.39
+	},
+	{
+		"transaction_id": 430,
+		"card_number": 4024007123875426,
+		"transaction_sum": 231.79
+	},
+	{
+		"transaction_id": 431,
+		"card_number": 5366456425369412,
+		"transaction_sum": 445.88
+	},
+	{
+		"transaction_id": 432,
+		"card_number": 5257213687345123,
+		"transaction_sum": 223.05
+	},
+	{
+		"transaction_id": 433,
+		"card_number": 5565926734656484,
+		"transaction_sum": 216.07
+	},
+	{
+		"transaction_id": 434,
+		"card_number": 4024007123875426,
+		"transaction_sum": 177.95
+	},
+	{
+		"transaction_id": 435,
+		"card_number": 5257213687345123,
+		"transaction_sum": 226.22
+	},
+	{
+		"transaction_id": 436,
+		"card_number": 5565926734656484,
+		"transaction_sum": 305.94
+	},
+	{
+		"transaction_id": 437,
+		"card_number": 4024007123875426,
+		"transaction_sum": 491.71
+	},
+	{
+		"transaction_id": 438,
+		"card_number": 4532884855783365,
+		"transaction_sum": 371.18
+	},
+	{
+		"transaction_id": 439,
+		"card_number": 5381435892838126,
+		"transaction_sum": 262.47
+	},
+	{
+		"transaction_id": 440,
+		"card_number": 4532884855783365,
+		"transaction_sum": 133.32
+	},
+	{
+		"transaction_id": 441,
+		"card_number": 4532884855783365,
+		"transaction_sum": 402.24
+	},
+	{
+		"transaction_id": 442,
+		"card_number": 5266522748472570,
+		"transaction_sum": 154.13
+	},
+	{
+		"transaction_id": 443,
+		"card_number": 4532884855783365,
+		"transaction_sum": 28.02
+	},
+	{
+		"transaction_id": 444,
+		"card_number": 5565926734656484,
+		"transaction_sum": 281.65
+	},
+	{
+		"transaction_id": 445,
+		"card_number": 5165755833248735,
+		"transaction_sum": 268.26
+	},
+	{
+		"transaction_id": 446,
+		"card_number": 5257213687345123,
+		"transaction_sum": 164.89
+	},
+	{
+		"transaction_id": 447,
+		"card_number": 5366456425369412,
+		"transaction_sum": 307.61
+	},
+	{
+		"transaction_id": 448,
+		"card_number": 5165755833248735,
+		"transaction_sum": 351.57
+	},
+	{
+		"transaction_id": 449,
+		"card_number": 5266522748472570,
+		"transaction_sum": 308.84
+	},
+	{
+		"transaction_id": 450,
+		"card_number": 5257213687345123,
+		"transaction_sum": 282.66
+	},
+	{
+		"transaction_id": 451,
+		"card_number": 5366456425369412,
+		"transaction_sum": 356.20
+	},
+	{
+		"transaction_id": 452,
+		"card_number": 4024007123875426,
+		"transaction_sum": 325.91
+	},
+	{
+		"transaction_id": 453,
+		"card_number": 5572628335768673,
+		"transaction_sum": 77.90
+	},
+	{
+		"transaction_id": 454,
+		"card_number": 5572628335768673,
+		"transaction_sum": 268.10
+	},
+	{
+		"transaction_id": 455,
+		"card_number": 5257213687345123,
+		"transaction_sum": 371.73
+	},
+	{
+		"transaction_id": 456,
+		"card_number": 4024007123875426,
+		"transaction_sum": 220.25
+	},
+	{
+		"transaction_id": 457,
+		"card_number": 5366456425369412,
+		"transaction_sum": 67.78
+	},
+	{
+		"transaction_id": 458,
+		"card_number": 5165755833248735,
+		"transaction_sum": 465.30
+	},
+	{
+		"transaction_id": 459,
+		"card_number": 5381435892838126,
+		"transaction_sum": 301.60
+	},
+	{
+		"transaction_id": 460,
+		"card_number": 5572628335768673,
+		"transaction_sum": 480.98
+	},
+	{
+		"transaction_id": 461,
+		"card_number": 5366456425369412,
+		"transaction_sum": 79.21
+	},
+	{
+		"transaction_id": 462,
+		"card_number": 4532884855783365,
+		"transaction_sum": 225.49
+	},
+	{
+		"transaction_id": 463,
+		"card_number": 5366456425369412,
+		"transaction_sum": 318.29
+	},
+	{
+		"transaction_id": 464,
+		"card_number": 5366456425369412,
+		"transaction_sum": 489.31
+	},
+	{
+		"transaction_id": 465,
+		"card_number": 5381435892838126,
+		"transaction_sum": 149.17
+	},
+	{
+		"transaction_id": 466,
+		"card_number": 5381435892838126,
+		"transaction_sum": 135.71
+	},
+	{
+		"transaction_id": 467,
+		"card_number": 4532884855783365,
+		"transaction_sum": 463.65
+	},
+	{
+		"transaction_id": 468,
+		"card_number": 5257213687345123,
+		"transaction_sum": 488.38
+	},
+	{
+		"transaction_id": 469,
+		"card_number": 5572628335768673,
+		"transaction_sum": 480.83
+	},
+	{
+		"transaction_id": 470,
+		"card_number": 5565926734656484,
+		"transaction_sum": 248.41
+	},
+	{
+		"transaction_id": 471,
+		"card_number": 5178183589759463,
+		"transaction_sum": 310.08
+	},
+	{
+		"transaction_id": 472,
+		"card_number": 5366456425369412,
+		"transaction_sum": 456.58
+	},
+	{
+		"transaction_id": 473,
+		"card_number": 5165755833248735,
+		"transaction_sum": 145.34
+	},
+	{
+		"transaction_id": 474,
+		"card_number": 4024007123875426,
+		"transaction_sum": 362.69
+	},
+	{
+		"transaction_id": 475,
+		"card_number": 4024007123875426,
+		"transaction_sum": 416.18
+	},
+	{
+		"transaction_id": 476,
+		"card_number": 5257213687345123,
+		"transaction_sum": 486.45
+	},
+	{
+		"transaction_id": 477,
+		"card_number": 5366456425369412,
+		"transaction_sum": 102.73
+	},
+	{
+		"transaction_id": 478,
+		"card_number": 5178183589759463,
+		"transaction_sum": 135.15
+	},
+	{
+		"transaction_id": 479,
+		"card_number": 5572628335768673,
+		"transaction_sum": 103.03
+	},
+	{
+		"transaction_id": 480,
+		"card_number": 5381435892838126,
+		"transaction_sum": 156.83
+	},
+	{
+		"transaction_id": 481,
+		"card_number": 5565926734656484,
+		"transaction_sum": 450.43
+	},
+	{
+		"transaction_id": 482,
+		"card_number": 5165755833248735,
+		"transaction_sum": 109.55
+	},
+	{
+		"transaction_id": 483,
+		"card_number": 5565926734656484,
+		"transaction_sum": 299.72
+	},
+	{
+		"transaction_id": 484,
+		"card_number": 5178183589759463,
+		"transaction_sum": 272.23
+	},
+	{
+		"transaction_id": 485,
+		"card_number": 5257213687345123,
+		"transaction_sum": 178.58
+	},
+	{
+		"transaction_id": 486,
+		"card_number": 5366456425369412,
+		"transaction_sum": 228.24
+	},
+	{
+		"transaction_id": 487,
+		"card_number": 5572628335768673,
+		"transaction_sum": 449.65
+	},
+	{
+		"transaction_id": 488,
+		"card_number": 5381435892838126,
+		"transaction_sum": 189.80
+	},
+	{
+		"transaction_id": 489,
+		"card_number": 5257213687345123,
+		"transaction_sum": 258.11
+	},
+	{
+		"transaction_id": 490,
+		"card_number": 5565926734656484,
+		"transaction_sum": 432.58
+	},
+	{
+		"transaction_id": 491,
+		"card_number": 5572628335768673,
+		"transaction_sum": 64.18
+	},
+	{
+		"transaction_id": 492,
+		"card_number": 5381435892838126,
+		"transaction_sum": 16.94
+	},
+	{
+		"transaction_id": 493,
+		"card_number": 5572628335768673,
+		"transaction_sum": 65.92
+	},
+	{
+		"transaction_id": 494,
+		"card_number": 5257213687345123,
+		"transaction_sum": 316.71
+	},
+	{
+		"transaction_id": 495,
+		"card_number": 5572628335768673,
+		"transaction_sum": 260.57
+	},
+	{
+		"transaction_id": 496,
+		"card_number": 5381435892838126,
+		"transaction_sum": 309.27
+	},
+	{
+		"transaction_id": 497,
+		"card_number": 4024007123875426,
+		"transaction_sum": 299.70
+	},
+	{
+		"transaction_id": 498,
+		"card_number": 5266522748472570,
+		"transaction_sum": 466.51
+	},
+	{
+		"transaction_id": 499,
+		"card_number": 5266522748472570,
+		"transaction_sum": 14.52
+	},
+	{
+		"transaction_id": 500,
+		"card_number": 4532884855783365,
+		"transaction_sum": 481.84
 	}
 ]

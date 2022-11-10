@@ -4,6 +4,7 @@ project/*
 target/*
 moduleConsumer/target/*
 moduleProducer/target/*
+moduleMigration/target/*
 *.iml
 
 !project/build.properties
