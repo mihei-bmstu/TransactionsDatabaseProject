@@ -1,0 +1,22 @@
+INSERT INTO clients (client_id,full_name,email,address,phone_number,balance)
+VALUES
+  (1001,'Marsden Wolfe','felis@outlook.edu','Ap #400-7411 Turpis St.','(066) 69132366',9403.47),
+  (1002,'Hamish Rosario','erat@outlook.org','P.O. Box 155, 7093 A Av.','(06406) 5571511',4857.77),
+  (1003,'Kasper Carney','enim.nec@icloud.org','641-4226 Egestas. St.','(027) 45067691',8729.73),
+  (1004,'Giacomo Garza','nec.malesuada@yahoo.com','P.O. Box 711, 5683 Tortor. Rd.','(083) 21872131',5879.23),
+  (1005,'MacKenzie Ayers','est.vitae.sodales@google.ca','Ap #336-6713 Semper Rd.','(031) 36179603',6654.79),
+  (1006,'Armando Humphrey','facilisis.magna@google.edu','Ap #266-1075 Semper Street','(035627) 261258',3699.80),
+  (1007,'Carly Willis','vel@icloud.ca','436-6880 Elit Road','(03206) 1174657',9576.96),
+  (1008,'Orlando Schroeder','suspendisse.aliquet@outlook.couk','Ap #698-6225 Bibendum Street','(0553) 53552487',5397.60),
+  (1009,'Marah Conley','congue.in@outlook.org','Ap #615-2373 Sed Ave','(03137) 1533335',2817.97),
+  (1010,'Elijah Crosby','enim.nisl.elementum@google.ca','337-5819 Risus Street','(0436) 02351555',8782.86),
+  (1011,'Ivan Lyons','pellentesque.sed@icloud.edu','526-7925 Sed St.','(031777) 745281',9494.87),
+  (1012,'Lucian Mcbride','a@hotmail.com','404-9820 Dui. Av.','(08712) 1686683',9875.36),
+  (1013,'August Barr','lectus.pede@protonmail.ca','P.O. Box 195, 4118 In Street','(0679) 18542226',4036.96),
+  (1014,'Cain Adkins','auctor@hotmail.ca','Ap #582-1447 Aenean Rd.','(038149) 816235',3193.69),
+  (1015,'Keith Ochoa','ac.facilisis@google.couk','Ap #412-9832 Luctus Rd.','(06398) 1465455',3403.40),
+  (1016,'Caesar Hamilton','enim.nec@google.couk','9851 Est Av.','(035958) 045781',3847.55),
+  (1017,'Elmo Cervantes','aliquam@icloud.ca','252-4676 Metus. Ave','(055) 75370161',3507.15),
+  (1018,'Arsenio Carlson','ut@yahoo.edu','3370 Aliquet Rd.','(0103) 92884531',8033.19),
+  (1019,'Kyle Duran','sit.amet.massa@icloud.couk','Ap #969-9501 Orci. St.','(0968) 46811128',3188.26),
+  (1020,'Arsenio Nixon','imperdiet.dictum.magna@outlook.net','7097 Laoreet, Rd.','(07430) 6272494',7228.02);
